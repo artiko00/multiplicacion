@@ -1,0 +1,11 @@
+C:\Users\casti\Documents\MultiPlicacion\bin\Debug\netcoreapp2.2\MultiPlicacion.deps.json
+C:\Users\casti\Documents\MultiPlicacion\bin\Debug\netcoreapp2.2\MultiPlicacion.runtimeconfig.json
+C:\Users\casti\Documents\MultiPlicacion\bin\Debug\netcoreapp2.2\MultiPlicacion.runtimeconfig.dev.json
+C:\Users\casti\Documents\MultiPlicacion\bin\Debug\netcoreapp2.2\MultiPlicacion.dll
+C:\Users\casti\Documents\MultiPlicacion\bin\Debug\netcoreapp2.2\MultiPlicacion.pdb
+C:\Users\casti\Documents\MultiPlicacion\obj\Debug\netcoreapp2.2\MultiPlicacion.csprojAssemblyReference.cache
+C:\Users\casti\Documents\MultiPlicacion\obj\Debug\netcoreapp2.2\MultiPlicacion.csproj.CoreCompileInputs.cache
+C:\Users\casti\Documents\MultiPlicacion\obj\Debug\netcoreapp2.2\MultiPlicacion.AssemblyInfoInputs.cache
+C:\Users\casti\Documents\MultiPlicacion\obj\Debug\netcoreapp2.2\MultiPlicacion.AssemblyInfo.cs
+C:\Users\casti\Documents\MultiPlicacion\obj\Debug\netcoreapp2.2\MultiPlicacion.dll
+C:\Users\casti\Documents\MultiPlicacion\obj\Debug\netcoreapp2.2\MultiPlicacion.pdb

@@ -1,0 +1,14 @@
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\MultiPlicacion.exe
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\MultiPlicacion.deps.json
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\MultiPlicacion.runtimeconfig.json
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\MultiPlicacion.runtimeconfig.dev.json
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\MultiPlicacion.dll
+C:\Users\casti\Documents\MultiPlicacion\bin\Release\netcoreapp2.2\win10-x64\MultiPlicacion.pdb
+C:\Users\casti\Documents\MultiPlicacion\obj\Release\netcoreapp2.2\win10-x64\MultiPlicacion.csprojAssemblyReference.cache
+C:\Users\casti\Documents\MultiPlicacion\obj\Release\netcoreapp2.2\win10-x64\MultiPlicacion.csproj.CoreCompileInputs.cache
+C:\Users\casti\Documents\MultiPlicacion\obj\Release\netcoreapp2.2\win10-x64\MultiPlicacion.AssemblyInfoInputs.cache
+C:\Users\casti\Documents\MultiPlicacion\obj\Release\netcoreapp2.2\win10-x64\MultiPlicacion.AssemblyInfo.cs
+C:\Users\casti\Documents\MultiPlicacion\obj\Release\netcoreapp2.2\win10-x64\MultiPlicacion.dll
+C:\Users\casti\Documents\MultiPlicacion\obj\Release\netcoreapp2.2\win10-x64\MultiPlicacion.pdb
